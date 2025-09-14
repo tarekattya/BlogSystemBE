@@ -1,0 +1,51 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# JetBrains Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# NPM packages (if frontend added later)
+node_modules/
+
+# Database
+*.mdf
+*.ldf
+
+# EF Core Migrations snapshots
+*Migrations/*.Designer.cs
+
+# Secrets & configs
+appsettings.Development.json
+appsettings.*.local.json
+secrets.json
+
+# Publish
+publish/
