@@ -9,3 +9,15 @@ F:\Application\obj\Debug\net9.0\Application.dll
 F:\Application\obj\Debug\net9.0\refint\Application.dll
 F:\Application\obj\Debug\net9.0\Application.pdb
 F:\Application\obj\Debug\net9.0\ref\Application.dll
+F:\BlogSystem\Application\bin\Debug\net9.0\Application.deps.json
+F:\BlogSystem\Application\bin\Debug\net9.0\Application.dll
+F:\BlogSystem\Application\bin\Debug\net9.0\Application.pdb
+F:\BlogSystem\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\BlogSystem\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+F:\BlogSystem\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+F:\BlogSystem\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+F:\BlogSystem\Application\obj\Debug\net9.0\Application.sourcelink.json
+F:\BlogSystem\Application\obj\Debug\net9.0\Application.dll
+F:\BlogSystem\Application\obj\Debug\net9.0\refint\Application.dll
+F:\BlogSystem\Application\obj\Debug\net9.0\Application.pdb
+F:\BlogSystem\Application\obj\Debug\net9.0\ref\Application.dll

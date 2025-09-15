@@ -4732,11 +4732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "F:\\BlogSystem\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "F:\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "F:\\BlogSystem\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Tatuuu\\.nuget\\packages\\",
-      "outputPath": "F:\\Infrastructure\\obj\\",
+      "outputPath": "F:\\BlogSystem\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4758,8 +4758,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "F:\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\Domain\\Domain.csproj"
+            "F:\\BlogSystem\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\BlogSystem\\Domain\\Domain.csproj"
             }
           }
         }

@@ -7,8 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="MiddleWares\" />
-    <Folder Include="Controllers\" />
+    <Compile Remove="Controllers\**" />
+    <Compile Remove="MiddleWares\**" />
+    <EmbeddedResource Remove="Controllers\**" />
+    <EmbeddedResource Remove="MiddleWares\**" />
+    <None Remove="Controllers\**" />
+    <None Remove="MiddleWares\**" />
   </ItemGroup>
 
 </Project>
