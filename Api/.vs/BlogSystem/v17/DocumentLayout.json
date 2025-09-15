@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "F:\\BlogSystem\\Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E8EA946-99FD-4F86-8E8C-3552AB307E6B}|BlogSystemAPI.csproj|f:\\blogsystem\\api\\blogsystemapi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E8EA946-99FD-4F86-8E8C-3552AB307E6B}|BlogSystemAPI.csproj|solutionrelative:blogsystemapi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176F3FA8-4BD5-469D-8866-C291F45ADA74}|..\\Infrastructure\\Infrastructure.csproj|f:\\blogsystem\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E8EA946-99FD-4F86-8E8C-3552AB307E6B}|BlogSystemAPI.csproj|f:\\blogsystem\\api\\abstraction\\resultextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E8EA946-99FD-4F86-8E8C-3552AB307E6B}|BlogSystemAPI.csproj|solutionrelative:abstraction\\resultextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -20,34 +27,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Error.cs",
-              "DocumentMoniker": "F:\\BlogSystem\\Application\\Common\\Error.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Common\\Error.cs",
-              "ToolTip": "F:\\BlogSystem\\Application\\Common\\Error.cs",
-              "RelativeToolTip": "..\\Application\\Common\\Error.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T10:50:24.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Result.cs",
-              "DocumentMoniker": "F:\\BlogSystem\\Application\\Common\\Result.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Common\\Result.cs",
-              "ToolTip": "F:\\BlogSystem\\Application\\Common\\Result.cs",
-              "RelativeToolTip": "..\\Application\\Common\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T10:49:58.191Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -75,12 +56,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BlogSystemAPI",
+              "DocumentMoniker": "F:\\BlogSystem\\Api\\BlogSystemAPI.csproj",
+              "RelativeDocumentMoniker": "BlogSystemAPI.csproj",
+              "ToolTip": "F:\\BlogSystem\\Api\\BlogSystemAPI.csproj",
+              "RelativeToolTip": "BlogSystemAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T11:01:30.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "F:\\BlogSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "F:\\BlogSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T11:02:41.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cs",
+              "DocumentMoniker": "F:\\BlogSystem\\Application\\Common\\Error.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Common\\Error.cs",
+              "ToolTip": "F:\\BlogSystem\\Application\\Common\\Error.cs",
+              "RelativeToolTip": "..\\Application\\Common\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:50:24.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cs",
+              "DocumentMoniker": "F:\\BlogSystem\\Application\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Common\\Result.cs",
+              "ToolTip": "F:\\BlogSystem\\Application\\Common\\Result.cs",
+              "RelativeToolTip": "..\\Application\\Common\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:49:58.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ResultExtension.cs",
               "DocumentMoniker": "F:\\BlogSystem\\Api\\Abstraction\\ResultExtension.cs",
               "RelativeDocumentMoniker": "Abstraction\\ResultExtension.cs",
               "ToolTip": "F:\\BlogSystem\\Api\\Abstraction\\ResultExtension.cs",
               "RelativeToolTip": "Abstraction\\ResultExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T10:48:42.276Z",
               "EditorCaption": ""
