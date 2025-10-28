@@ -16,10 +16,13 @@ namespace Domain.Entites
         public PostStatus Status { get; set; }
 
         public int CategoryId { get; set; }
-        public Category Category { get; set; }
+        public Category Category { get; set; } = default!;
+        public string AuthorId { get; set; } = string.Empty;
+
 
         public ICollection<BlogPostTag> BlogPostTags { get; set; } = new List<BlogPostTag>();
         public ICollection<Comment> Comments { get; set; } = new List<Comment>();
+
     }
 }
 

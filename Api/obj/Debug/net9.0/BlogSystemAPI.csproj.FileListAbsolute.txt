@@ -175,6 +175,9 @@ F:\BlogSystem\Api\bin\Debug\net9.0\BlogSystemAPI.pdb
 F:\BlogSystem\Api\bin\Debug\net9.0\Azure.Core.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Azure.Identity.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Humanizer.dll
+F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
@@ -195,6 +198,8 @@ F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractio
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
@@ -207,9 +212,13 @@ F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\BlogSystem\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\BlogSystem\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\BlogSystem\Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\System.ClientModel.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\System.CodeDom.dll
 F:\BlogSystem\Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
@@ -316,6 +325,7 @@ F:\BlogSystem\Api\obj\Debug\net9.0\BlogSystemAPI.GeneratedMSBuildEditorConfig.ed
 F:\BlogSystem\Api\obj\Debug\net9.0\BlogSystemAPI.AssemblyInfoInputs.cache
 F:\BlogSystem\Api\obj\Debug\net9.0\BlogSystemAPI.AssemblyInfo.cs
 F:\BlogSystem\Api\obj\Debug\net9.0\BlogSystemAPI.csproj.CoreCompileInputs.cache
+F:\BlogSystem\Api\obj\Debug\net9.0\BlogSystemAPI.MvcApplicationPartsAssemblyInfo.cs
 F:\BlogSystem\Api\obj\Debug\net9.0\BlogSystemAPI.MvcApplicationPartsAssemblyInfo.cache
 F:\BlogSystem\Api\obj\Debug\net9.0\BlogSystemAPI.sourcelink.json
 F:\BlogSystem\Api\obj\Debug\net9.0\rjimswa.dswa.cache.json

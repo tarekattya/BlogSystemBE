@@ -1,4 +1,5 @@
 ﻿using Domain.Entites;
+using Infrastructure.Persistence.Emtities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
@@ -22,6 +23,20 @@ namespace Infrastructure.Persistence.Configurations
             builder.HasOne(c => c.Post)
                    .WithMany(p => p.Comments)
                    .HasForeignKey(c => c.PostId);
+
+            builder.HasOne(c => c.Post)
+               .WithMany(p => p.Comments)
+               .HasForeignKey(c => c.PostId)
+               .OnDelete(DeleteBehavior.Cascade);
+
+            builder.Property(c => c.UserId)
+        .HasMaxLength(450)
+        .IsRequired();
+
+            builder.HasIndex(c => c.UserId);
+
+
+
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Infrastructure.Persistence.Data;
+using Infrastructure.Persistence.Emtities;
 using Microsoft.EntityFrameworkCore;
 
 namespace BlogSystemAPI
@@ -8,6 +9,7 @@ namespace BlogSystemAPI
         public static IServiceCollection AddDependencies(this IServiceCollection services , IConfiguration configuration)
         {
             AddConnectionStringConfig(services, configuration);
+            AddIdentityConfig(services);
 
             return services;
         }
@@ -19,5 +21,13 @@ namespace BlogSystemAPI
 
             return services;
         }
+
+        private static IServiceCollection AddIdentityConfig(IServiceCollection services)
+        {
+            services.AddIdentity<ApplicationUser, ApplicationRole>()
+                .AddEntityFrameworkStores<BlogDbContext>();
+            return services;
+        }
+
     }
 }

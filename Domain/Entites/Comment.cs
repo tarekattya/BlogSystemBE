@@ -5,6 +5,8 @@
         public string Content { get; set; } = string.Empty;
 
         public int PostId { get; set; }
-        public BlogPost Post { get; set; }
+        public BlogPost Post { get; set; } = default!;
+        public string UserId { get; set; } = string.Empty;
+
     }
 }

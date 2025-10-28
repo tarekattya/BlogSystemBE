@@ -1,4 +1,7 @@
 ﻿using Domain.Entites;
+using Infrastructure.Persistence.Emtities;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Persistence.Data
 {
-    public class BlogDbContext : DbContext
+    public class BlogDbContext : IdentityDbContext<ApplicationUser , ApplicationRole, string>
     {
 
 
